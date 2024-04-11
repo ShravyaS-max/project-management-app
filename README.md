@@ -4,28 +4,28 @@ This project is a web application for project management, allowing users to visu
 
 ## Installation
 
-Follow these steps to install the project on your local machine:
-
+# Cloning from GitHub:
 1. Clone the repository to your local machine:
-   ```sh
-   git clone https://github.com/your-username/project-management-app.git
-2. Navigate to the project directory:
-   cd project-management-app
-3. Install dependencies using npm:
-   npm install
+"git clone https://github.com/your-username/project-management-app.git"
 
-   Usage
-Once the project is installed, follow these steps to run it on your local machine:
+# Downloading as ZIP File:
+1. Download the ZIP file of the project from the GitHub repository.
+2. Extract the downloaded ZIP file.
+3. Navigate inside the extracted folder. You will find the project folder named "project-management-app".
+4. Cut the "project-management-app" folder and paste it outside the extracted folder, anywhere on your local device (e.g., in the Downloads or Desktop directory).
 
-1. Start the development server:
-   npm start
-2. Open your web browser and go to http://localhost:3000 to view the application.
+# Usage
+1. Open Visual Studio Code (or any code editor of your choice).
+2. In Visual Studio Code, open the "project-management-app" folder you pasted earlier.
+3. Open the integrated terminal in Visual Studio Code.
+4. Run the following commands in the terminal:
+   "npm install"
+5. After the dependencies are installed, run the following command:
+   "npm start"
+6. Open your web browser and go to http://localhost:3000 to view the application.
 
-   Additional Information
+# Additional Information
 Make sure you have Node.js and npm installed on your machine before running the installation steps.
-This project does not include the node_modules directory in the repository. After cloning the repository, you need to run npm install to install the required dependencies.
-If you encounter any issues during installation or running the application, please refer to the project's issue tracker on GitHub or reach out to the project maintainers for assistance
-
-
-
-
+This project does not include the node_modules directory in the repository. After cloning the repository or downloading the ZIP file, you need to run npm install to install the required dependencies.
+If you encounter any issues during installation or running the application, please refer to the project's issue tracker on GitHub or reach out to the project maintainers for assistance.
+2. Open your web browser and go to http://localhost:3000 to view the application.
